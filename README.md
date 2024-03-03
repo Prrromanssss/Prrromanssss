@@ -6,7 +6,7 @@
 - 💬 Ask me about the work of Hermann Hesse
 - 📫 How to reach me: [<img src="https://github.com/Patrolavia/telegram-badge/blob/master/chat.svg">](https://t.me/sourr_cream)
 - ⚡ Fun fact: I'm still thinking about it
-- 😅 I have a lot of python code, but I'm real gopher 😏
+- 😅 I have a lot of python code, but I'm real gopher 😏 (I love goroutines)
 ## Statistics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prrromanssss&layout=donut&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
