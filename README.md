@@ -13,22 +13,31 @@
 </div>
 
 ## Backend tools:
+
+### Databases
 <div class="databases">
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="60" height="60"/>&nbsp;
 </div>
+
+### Message brokers
 <div class="message-brokers">
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Apachekafka"  alt="Apachekafka" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" title="RabbitMQ"  alt="RabbitMQ" width="60" height="60"/>&nbsp;
 </div>
+
+### Containerization and orchestration
 <div class="containerization-and-orchestration">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="60" height="60"/>&nbsp;
 </div>
-<div class="patterns">
+
+### Design patterns
+<div class="design-patterns">
   <img src="https://github.com/devicons/devicon/blob/master/icons/grpc/grpc-original.svg" title="gRPS" alt="gRPS" width="60" height="60"/>&nbsp;
 </div>
 
+### Others
 <div class="others">
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
