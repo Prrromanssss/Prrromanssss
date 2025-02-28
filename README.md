@@ -5,10 +5,12 @@
 ## Talking about personal stuffs:
 - 🔭 Go backend developer
 - 🌱 I’m currently learning all sorts of backend tools
-- 💬 Ask me about the work of Hermann Hesse
+- 🎓 Studying Mathematics and Computer Science (IU9) at MSTU
 - 📫 How to reach me: [<img src="https://github.com/Patrolavia/telegram-badge/blob/master/chat.svg">](https://t.me/sourr_cream)
-- ⚡ Fun fact: I'm still thinking about it
-- 😅 I have a lot of python code, but I'm real gopher 😏 (I love goroutines)
+- ⚡ Fun fact: The best code is the code that was never written 😏
+- ✈️ I love traveling whenever I get the chance
+- 🐍 I have a lot of Python code, but deep down, I’m a real gopher 🦫 (goroutines are life)
+
 ## Statistics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prrromanssss&layout=donut&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
