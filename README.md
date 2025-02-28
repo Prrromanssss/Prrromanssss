@@ -6,10 +6,10 @@
 - 🔭 Go backend developer
 - 🌱 I’m currently learning all sorts of backend tools
 - 🎓 Studying Mathematics and Computer Science (IU9) at MSTU
-- 📫 How to reach me: [<img src="https://github.com/Patrolavia/telegram-badge/blob/master/chat.svg">](https://t.me/sourr_cream)
-- ⚡ Fun fact: The best code is the code that was never written 😏
 - ✈️ I love traveling whenever I get the chance
 - 🐍 I have a lot of Python code, but deep down, I’m a real gopher 🦫 (goroutines are life)
+- ⚡ Fun fact: The best code is the code that was never written 😏
+- 📫 How to reach me: [<img src="https://github.com/Patrolavia/telegram-badge/blob/master/chat.svg">](https://t.me/sourr_cream)
 
 ## Statistics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prrromanssss&layout=donut&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
@@ -18,10 +18,6 @@
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="60" height="60"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/file-icons/icons/blob/master/svg/Scheme.svg" title="Scheme" alt="Scheme" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60"/>&nbsp;
 </div>
 
 ## Backend tools:
