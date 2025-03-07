@@ -2,7 +2,7 @@
 
 ![Gopher coding](https://github.com/Prrromanssss/Prrromanssss/raw/main/gopher.gif)
 
-## Talking about personal stuffs:
+## Talking about personal stuff:
 - 🔭 Go backend developer
 - 🌱 I’m currently learning all sorts of backend tools
 - 🎓 Studying Mathematics and Computer Science (IU9) at MSTU
